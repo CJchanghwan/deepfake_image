@@ -1,6 +1,6 @@
 # Introduction
 
-This repository provides a PyTorch implementation of speaker recognition framework
+This repository provides a PyTorch implementation of image deepfake detection program
 ![GUI](gui.png)
 
 
